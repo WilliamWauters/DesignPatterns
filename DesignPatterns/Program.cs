@@ -1,4 +1,4 @@
-﻿DesignPatterns.BehavioralPatterns.StrategyPattern.Client Client = new DesignPatterns.BehavioralPatterns.StrategyPattern.Client();
+﻿DesignPatterns.BehavioralPatterns.ObserverPattern.Client Client = new DesignPatterns.BehavioralPatterns.ObserverPattern.Client();
 Client.Main();
 
 
